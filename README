@@ -1,5 +1,5 @@
-xls2csv version 1.06
-====================
+xls2csv
+=======
 
 This will install the xls2csv script.
 
@@ -19,7 +19,7 @@ To install this module type the following:
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2005 Ken Prows. (perl@xev.net)
+Copyright (C) 2005-2012 Ken Prows. (perl@xev.net)
 All rights reserved.
 
 This script is free software; you can redistribute it and/or modify it under the same terms as Perl itself.

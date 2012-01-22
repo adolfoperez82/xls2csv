@@ -1,5 +1,10 @@
 Revision history for Perl script xls2csv.
 
+1.07 Jan 21, 2012
+    - BUG#64000 - 0 is no longer treated as "empty"
+    - BUG#33248 - Added the -f option, which will force rows to be parsed even if the first column is blank.
+    - Added the -n option, which lets you specify the worksheet you want to convert by its number.
+
 1.06 Fri Sep 30
 	- Now works with multiple worksheets. The worksheet name may be specified with -w.
 	Can also now get a list of all the worksheets in a spreadsheet with the -W switch.
